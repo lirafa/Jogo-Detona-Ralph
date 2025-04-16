@@ -1,4 +1,4 @@
-🎮 Jogo do Detona Ralph
+##🎮 Jogo do Detona Ralph
 
 ## 📖 Sobre
 Este é um jogo inspirado no personagem Detona Ralph, desenvolvido como parte do Bootcamp da DIO. O objetivo do jogo é acertar o Ralph o máximo possível dentro de 1 minuto para acumular pontos. 
