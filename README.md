@@ -20,7 +20,8 @@ Neste projeto, treinei meus conhecimentos em JavaScript, utilizando:
 - Implementação de áudio
 
 ## 🖼 Imagem
-![Imagem do Jogo]()
+![Imagem do Jogo](https://github.com/user-attachments/assets/9a86d58c-0b73-4734-a256-a93bc09e6ad2)
+
 
 ## 🛠 Tecnologias Utilizadas
 - JavaScript
